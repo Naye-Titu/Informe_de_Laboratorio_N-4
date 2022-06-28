@@ -25,7 +25,7 @@ TEMA: TEOREMA DE SUPERPOSICIÓN
 
 Aplicar el teorema de superposición en el circuito.
 
-*Objetivos Específicos:
+* Objetivos Específicos:
 
 Evaluar el voltaje y corriente por separado del circuito aplicando el teorema de superposición.
 
@@ -59,12 +59,12 @@ CALCULOS ANALÍTICOS
 
 6.- CONCLUSIONES 
 
-El teorema de superposición es de gran utilidad para analizar circuitos que tengan dos o más fuentes, ya que al analizarlo fuente por fuente el análisis resultara más sencillo de realizar.
+* El teorema de superposición es de gran utilidad para analizar circuitos que tengan dos o más fuentes, ya que al analizarlo fuente por fuente el análisis resultara más sencillo de realizar.
 
-De acuerdo con los objetivos planteados al aplicar el teorema de superposición en el circuito; las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que las fuentes de corriente igualadas a cero equivalen a un circuito abierto. Gracias a esto se puedo encontrar de manera simplificada el voltaje y la corriente requerida.
+* De acuerdo con los objetivos planteados al aplicar el teorema de superposición en el circuito; las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que las fuentes de corriente igualadas a cero equivalen a un circuito abierto. Gracias a esto se puedo encontrar de manera simplificada el voltaje y la corriente requerida.
 
-En un circuito con más de una fuente de voltaje, se suprimen todas las entradas, excepto una, y se analiza el circuito resultante más sencillo. Se repite el mismo procedimiento para todas las entradas y fuentes. Después se debe sumar o restar los resultados pues dependerá de la polaridad del voltaje como del sentido de la corriente para encontrar la respuesta total para el circuito completo.
+* En un circuito con más de una fuente de voltaje, se suprimen todas las entradas, excepto una, y se analiza el circuito resultante más sencillo. Se repite el mismo procedimiento para todas las entradas y fuentes. Después se debe sumar o restar los resultados pues dependerá de la polaridad del voltaje como del sentido de la corriente para encontrar la respuesta total para el circuito completo.
 
-Según el porcentaje de error se que obtuvo de los datos medidos con los calculados fue menor al 1% lo que indica un grado alto de confianza sobre la práctica realizada.
+* Según el porcentaje de error se que obtuvo de los datos medidos con los calculados fue menor al 1% lo que indica un grado alto de confianza sobre la práctica realizada.
 
 7.- BIBLIOGRAFÍA
