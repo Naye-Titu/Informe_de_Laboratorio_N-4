@@ -6,11 +6,11 @@ Docente: Ing. Darwin Alulema
 
 Integrantes: 
 
-Guano Ariel
+* Guano Ariel
 
-Tituaña Nayely 
+* Tituaña Nayely 
 
-Tonato Anthony 
+* Tonato Anthony 
 
 Semestre: Segundo
 
