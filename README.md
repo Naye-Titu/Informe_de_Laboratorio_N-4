@@ -92,3 +92,7 @@ Tabla 3.6 Medición de corrientes aplicando superposición.
 * Según el porcentaje de error se que obtuvo de los datos medidos con los calculados fue menor al 1% lo que indica un grado alto de confianza sobre la práctica realizada.
 
 7.- BIBLIOGRAFÍA
+
+* Hernández, M. (19 de Abril de 2019). Análisis de circuitos y sistemas lineales . Obtenido de Teorema de superposición: https://innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm
+
+* Willy, M. (28 de Junio de 2017). Khan Academy. Obtenido de Superposición: https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-superposition
