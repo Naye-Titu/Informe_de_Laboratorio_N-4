@@ -61,10 +61,9 @@ MATERIAL Y EQUIPO REQUERIDO
 
 3.4-  Hacer “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan.
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/105722861/176329770-e280d59f-4807-4531-807c-17e9d1aa1891.png)
 
-![Uploading image.png…]()
-
+![image](https://user-images.githubusercontent.com/105722861/176329810-17813b52-97bb-470f-a375-9c3b80e9855f.png)
 
 CALCULOS ANALÍTICOS
 
