@@ -67,6 +67,12 @@ MATERIAL Y EQUIPO REQUERIDO
 
 CALCULOS ANALÍTICOS
 
+![image](https://user-images.githubusercontent.com/105722861/176572349-117029d7-0900-4fc7-860f-8c9c371c6b29.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176572428-da667abc-e03c-4027-ade6-d327dc7f6dfd.png)
+
+![image](https://user-images.githubusercontent.com/105722861/176572452-30230af1-90e4-443d-a4f0-d5ff96f3b383.png)
+
 Tabla 3.5 Medición de voltaje aplicando superposición. 
 
 ![image](https://user-images.githubusercontent.com/105722861/176338581-06ae1c6f-f39b-4fe8-bf71-ac07b6ff40c0.png)
