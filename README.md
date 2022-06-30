@@ -87,6 +87,8 @@ Tabla 3.6 Medición de corrientes aplicando superposición.
 
 5.- VIDEO
 
+https://www.youtube.com/watch?v=b-V4d1JPmyA
+
 6.- CONCLUSIONES 
 
 * El teorema de superposición es de gran utilidad para analizar circuitos que tengan dos o más fuentes, ya que al analizarlo fuente por fuente el análisis resultara más sencillo de realizar.
